@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780994639591",
+    "project_id": "sendit-8cd0e",
+    "storage_bucket": "sendit-8cd0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780994639591:android:92c78b61b6726f8b3c9442",
+        "android_client_info": {
+          "package_name": "com.example.pro1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780994639591-n709r54itp46tabs4stcshk7p4hjd32u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAba0zL4GlSQjK1dVN3-9mT5cs2zoCnGAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780994639591-n709r54itp46tabs4stcshk7p4hjd32u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
